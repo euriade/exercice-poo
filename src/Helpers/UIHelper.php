@@ -1,0 +1,5 @@
+<?php
+
+class UIHelper {
+    // Code
+}
